@@ -1,3 +1,3 @@
-# My Awesome Book
+# 试图扯淡完成2017年目标
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这本书我在扯淡。
