@@ -7,4 +7,4 @@
     * [词语-萨特](word_sate.md)
     * [观看之道](way_of_seeing.md)
     * [存在主义是一种人道主义](exit_human.md)
-    * [微表情心理学](micro_expression.md)
+    * [微表情心理学](微表情心理学.md)
